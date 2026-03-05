@@ -2,9 +2,27 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Project](https://img.shields.io/badge/Project-ICS3U-green)
 
-# Game Screenshot
+## Game Screenshot
 
 ![UNO Game Screenshot](result.png)
+
+---
+
+## Table of Contents
+
+- [Game Screenshot](#game-screenshot)
+- [Project Information](#project-information)
+- [Project Description](#project-description)
+- [Features Implemented](#features-implemented)
+- [Special Cards](#special-cards)
+- [Game Rules](#game-rules)
+- [Program Structure](#program-structure)
+- [How to Run the Program](#how-to-run-the-program)
+- [Project Structure](#project-structure)
+- [Development Process](#development-process)
+- [Technologies Used](#technologies-used)
+- [Learning Outcomes](#learning-outcomes)
+- [License](#license)
 
 ---
 
@@ -21,7 +39,7 @@ The game simulates a simplified UNO game where four players take turns playing c
 
 ---
 
-# Project Description
+## Project Description
 
 The goal of this project is to simulate the mechanics of the UNO card game using Python.
 
@@ -31,7 +49,7 @@ The game continues until one player plays all their cards and wins.
 
 ---
 
-# Features Implemented
+## Features Implemented
 
 The program includes the following features:
 
@@ -46,7 +64,7 @@ The program includes the following features:
 
 ---
 
-# Special Cards
+## Special Cards
 
 | Card | Effect |
 |-----|------|
@@ -58,7 +76,7 @@ The program includes the following features:
 
 ---
 
-# Game Rules
+## Game Rules
 
 1. Each player starts with **7 cards**.
 2. Players take turns playing cards.
@@ -72,7 +90,7 @@ The program includes the following features:
 
 ---
 
-# Program Structure
+## Program Structure
 
 The project contains several functions responsible for different parts of the game.
 
@@ -91,7 +109,7 @@ Main functions include:
 
 ---
 
-# How to Run the Program
+## How to Run the Program
 
 ### Step 1
 
@@ -111,7 +129,7 @@ python uno_game.py
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 UNO-Card-Game-Python
@@ -125,7 +143,7 @@ UNO-Card-Game-Python
 
 ---
 
-# Development Process
+## Development Process
 
 The project was developed over several stages:
 
@@ -140,7 +158,7 @@ The full development record is available in **daily_log.docx**.
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Random module
@@ -148,7 +166,7 @@ The full development record is available in **daily_log.docx**.
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 Through this project we learned:
 
@@ -160,6 +178,6 @@ Through this project we learned:
 
 ---
 
-# License
+## License
 
 This project was developed as part of the **ICS3U final programming project** for educational purposes.
