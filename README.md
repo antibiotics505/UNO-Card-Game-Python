@@ -1,4 +1,14 @@
 # UNO Card Game (Python)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project](https://img.shields.io/badge/Project-ICS3U-green)
+
+# Game Screenshot
+
+Below is a screenshot of the program running in the terminal.
+
+![UNO Game Screenshot](result.png)
+
+---
 
 ## Project Information
 
@@ -10,14 +20,6 @@ Date: Jan 8 – Jan 23, 2024
 This project is a **console-based UNO card game implemented in Python**.
 
 The game simulates a simplified UNO game where four players take turns playing cards according to UNO rules.
-
----
-
-# Game Screenshot
-
-Below is a screenshot of the program running in the terminal.
-
-![UNO Game Screenshot](result.png)
 
 ---
 
@@ -160,11 +162,6 @@ Through this project we learned:
 
 ---
 
-# Future Improvements
+# License
 
-Possible improvements include:
-
-- adding a graphical interface
-- supporting more players
-- implementing AI opponents
-- improving card validation
+This project was developed as part of the **ICS3U final programming project** for educational purposes.
